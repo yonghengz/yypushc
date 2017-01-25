@@ -1,5 +1,11 @@
 # YYPush Configuration Tool
 
+`ZOOKEEPER` environmental variable should be defined before you can use this tool.
+
+```
+export ZOOKEEPER=10.13.2.43:2181,10.13.2.44:2181
+```
+
 ## Get Configuration
 
 ```
